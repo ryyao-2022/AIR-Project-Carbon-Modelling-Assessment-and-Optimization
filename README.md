@@ -49,7 +49,7 @@ The energy-intensive Internet data centers (IDCs) offer a high degree of power c
 Our proposed framework derives a more accurate flexibility assessment showcased in the figure below. 
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-<img src="https://github.com/ryyao-2022/AIR-Project-Carbon-Modelling-Assessment-and-Optimization/blob/main/images/flexibility%20assessment%20result.png" alt="Flexibility Assessment Result">
+<img src="https://github.com/ryyao-2022/AIR-Project-Carbon-Modelling-Assessment-and-Optimization/blob/main/images/flexibility%20assessment%20result.png" alt="Flexibility Assessment Result" style="width:70%; height:70%;">
 </div>
 
 ### Data Center Carbon Aware Computing Power Modelling
