@@ -15,7 +15,7 @@ This project is a joint collaboration between Alibaba Cloud and the University o
 ## Research Outcomes
 When a workload is submitted to the internet data center (IDC), like a transaction request or a machine learning training request, operators will divide workload into computing tasks/jobs and schedule them to run on IDC servers.
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
 <img src="https://github.com/ryyao-2022/AIR-Project-Carbon-Modelling-Assessment-and-Optimization/blob/main/images/data%20center%20workflow.png" alt="IDC Workflow" style="width:70%; height:70%;">
 </div>
 
@@ -23,7 +23,7 @@ Workloads can be classified into two types: online and batch. Online jobs, such 
 
 In our project, we aim to develop **carbon aware modelling, assessment, and optimization** methods to reduce carbon emission.
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
 <img src="https://github.com/ryyao-2022/AIR-Project-Carbon-Modelling-Assessment-and-Optimization/blob/main/images/our%20research%20framework.png" alt="Research Framework" style="width:70%; height:70%;">
 </div>
 
@@ -32,7 +32,7 @@ The project is divided into three sub-tasks, each concerning one specific aspect
 ### Carbon Intensity Forecasting
 Carbon intensity, or grid carbon intensity, measures the carbon emission per energy consumed with unit gCO2/kWh. This statistics is closely related renewable generation and can be used as guideline for low carbon electricity consumption. It is critical to develop accurate short term forecasting methods so that data center operators can optimally place their computing tasks in times and regions with lower carbon intensity.
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
 <img src="https://github.com/ryyao-2022/AIR-Project-Carbon-Modelling-Assessment-and-Optimization/blob/main/images/carbon%20forecasting%20framework.png" alt="Carbon Forecasting Framework" style="width:70%; height:70%;">
 </div>
 
@@ -42,13 +42,13 @@ To achieve lower forecasting error, Figure in this project we propose a leveled 
 
 The energy-intensive Internet data centers (IDCs) offer a high degree of power consumption flexibility, which has been extensively studied as a potential solution to enhance the flexibility of power systems. In IDCs, computational workloads are often comprised of interdependent tasks. Therefore, to accurately assess the power consumption flexibility of IDCs, it is crucial to consider the interdependency of computational tasks. We propose a framework for deriving a compatible task dependency-aware IDC load model which is easy to embed for demand reponses from current grid as shown in figure below.
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
 <img src="https://github.com/ryyao-2022/AIR-Project-Carbon-Modelling-Assessment-and-Optimization/blob/main/images/flexibility%20assessment%20framework.png" alt="Flexibility Assessment Framework" style="width:70%; height:70%;">
 </div>
 
 Our proposed framework derives a more accurate flexibility assessment showcased in the figure below. 
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
 <img src="https://github.com/ryyao-2022/AIR-Project-Carbon-Modelling-Assessment-and-Optimization/blob/main/images/flexibility%20assessment%20result.png" alt="Flexibility Assessment Result">
 </div>
 
